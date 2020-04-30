@@ -12,7 +12,7 @@
     "axios": "^0.18.0",
     "clean-webpack-plugin": "^1.0.1",
     "element-ui": "^2.8.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lib-flexible": "^0.3.2",
     "normalize.css": "^8.0.1",
     "vue-awesome-swiper": "^3.1.3",
